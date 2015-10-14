@@ -17,6 +17,8 @@ namespace ConsoleApp1
             // yet more changes
 
             //last few changes
+
+            // Feature 1.1 change
         }
     }
 }
